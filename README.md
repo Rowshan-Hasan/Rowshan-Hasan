@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Rowshan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/rowshan_hasan]
-[<img align="left" alt="Rowshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/rowshan-hasan-9779aa23b/]
-[<img align="left" alt="Rowshan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/rowshan_neel_118/]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/rowshan_hasan]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://www.linkedin.com/in/rowshan-hasan-9779aa23b/]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/rowshan_neel_118/]
 
 <br />
 
@@ -92,7 +92,7 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/rowshan_hasan
+[twitter]:[https://twitter.com/rowshan_hasan]
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/rowshan_neel_118/
 [linkedin]: https://www.linkedin.com/in/rowshan-hasan-9779aa23b/
