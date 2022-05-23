@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/rowshan_hasan]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://https://twitter.com/rowshan_hasan" />][]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://www.linkedin.com/in/rowshan-hasan-9779aa23b/]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/rowshan_neel_118/]
 
@@ -51,7 +51,6 @@
 
 </details>
 [twitter]:[https://twitter.com/rowshan_hasan]
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/rowshan_neel_118/
 [linkedin]: https://www.linkedin.com/in/rowshan-hasan-9779aa23b/
 
