@@ -1,4 +1,4 @@
-### Hi there, I'm Rowshan - aka [Rowshan_Hasan][https://www.facebook.com/rowshan.hasan.118] 👋
+### Hi there, I'm Rowshan - [https://www.facebook.com/rowshan.hasan.118] 👋
 
 ## I'm a Student of CSE (Computer Science and Engineering)!!
 
